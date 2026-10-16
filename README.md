@@ -28,7 +28,7 @@ Retrouvez le détail de mes réalisations académiques et professionnelles :
 
 ## 💼 Career (Carrière & Candidature)
 Cette section regroupe l'ensemble des éléments relatifs à mon profil professionnel[cite: 1] :
-* **LinkedIn :** [Julien Benazet-arrieudebat - Enedis](https://www.linkedin.com) *(Lien vers mon profil mis à jour avec mon alternance)*[cite: 1]
+* **LinkedIn :** [Julien Benazet-arrieudebat - Enedis](https://fr.linkedin.com/in/julien-benazet-arrieudebat-5706b827a) *(Lien vers mon profil mis à jour avec mon alternance)*[cite: 1]
 * **Candidature Ciblée :** Offre d'emploi ciblée, accompagnée de mon **CV** et de ma **lettre de motivation en anglais** rédigés sur mesure[cite: 1].
 * **Réseau & Mentorat :** Bilan de mes échanges et entretiens de réseau réalisés via **My Job Glasses**[cite: 1, 2].
 
